@@ -1,0 +1,376 @@
+{
+    "Special_Offers":[
+        {
+            "id":"1",
+            "name":"New to Sale",
+            "name1":"Fresh Cut",
+            "actualPrice":"7,990",
+            "latestPrice":"3,499",
+            "reviews":"34",
+            "rating":"4.68",
+            "img":"https://cdn.modesens.com/banner/20220531-modesens-Sale-364x484.jpg"
+        },
+        {
+            "id":"2",
+            "name":"Relive That Slumber Party Fun",
+            "name1":"Discover a pillow bag for everyday wear",
+            "actualPrice":"5,990",
+            "latestPrice":"2,999",
+            "reviews":"757",
+            "rating":"4.79",
+             "img":"https://cdn.modesens.com/banner/20220609-modesens-FPillowBags-364x484-F.jpg"
+        },
+        {
+            "id":"3",
+            "name":"Delight in Your See-Through",
+            "name1":"Wear transparent pants",
+            "actualPrice":"11,999",
+            "latestPrice":"4,399",
+            "reviews":"34",
+            "rating":"4.68",
+           "img":"https://cdn.modesens.com/banner/20220609-modesens-Sheerpants-364x484-Fgai.jpg"
+        },
+        {
+            "id":"4",
+            "name":"Less Seasons and More Sizes",
+            "name1":"Blog by SSENSE",
+            "actualPrice":"6,990",
+            "latestPrice":"2,499",
+            "reviews":"2",
+            "rating":"5",
+            "img":"https://cdn.modesens.com/banner/20220610-modesens-blog-364x484-F.jpg"
+        },
+        {
+            "id":"5",
+            "name":"GUCCI",
+            "name1":"Father's Day Gifts",
+            "actualPrice":"6,990",
+            "latestPrice":"2,999",
+            "reviews":"7",
+            "rating":"4.86",
+            "img":"https://cdn.modesens.com/banner/20220612-modesens-Gucci-364x484.jpg"
+        },
+        {
+            "id":"6",
+            "name":"Your Guide To Sale Season",
+            "name1":"Top 5 Tips to Get Designer Sale for Less...",
+            "actualPrice":"6,990",
+            "latestPrice":"3,499",
+            "reviews":"34",
+            "rating":"4.68",
+            "img":"https://cdn.modesens.com/banner/20220523-modesens-Guide-364x484.jpg"
+        }
+    ],
+    "Trending":[
+        {
+            "id":"1",
+            "name":"BURBERRY",
+            "actualPrice":"341",
+            "latestPrice":"570",
+            "reviews":"34",
+            "rating":"4.68",
+            "p1":"Bbry Carrick top Tee Cn Ss Chckd",
+            "p2":"24 Stores",
+           "img":"https://cdn.modesens.com/product/7298931_66?w=400&"
+        },
+        {
+            "id":"2",
+            "name":"JACQUEMUS",
+            "actualPrice":"349",
+            "latestPrice":"775",
+            "reviews":"757",
+            "rating":"4.79",
+            "p1":"Women's Limao Cutout Woven",
+            "p2":"24 Stores",
+            "img":"https://cdn.modesens.com/product/41449769_2?w=400&"
+        },
+        {
+            "id":"3",
+            "name":"GANNI",
+            "actualPrice":"70",
+            "latestPrice":"148",
+            "reviews":"34",
+            "rating":"4.68",
+            "p1":"Cotton Poplin Collared Sleeveless",
+            "p2":"20 Stores",
+          
+            "img":"https://res.cloudinary.com/ssenseweb/image/upload/b_white%2Cc_lpad%2Cg_center%2Ch_960%2Cw_960/c_scale%2Ch_680/f_auto%2Cdpr_1.0/212144F109000_1.jpg"
+        },
+        {
+            "id":"4",
+            "name":"ALEXANDER MCQUEEN",
+            "actualPrice":"892",
+            "latestPrice":"1990",
+            "reviews":"2",
+            "rating":"5",
+            "p1":"Crossover-strap Slim-fit Stretch-",
+            "p2":"21 Stores",
+           
+            "img":"https://cdn-images.farfetch-contents.com/17/78/37/20/17783720_39317799_1000.jpg"
+        },
+        {
+            "id":"5",
+            "name":"SAINT LAURENT",
+            "actualPrice":"380",
+            "latestPrice":"890",
+            "reviews":"7",
+            "rating":"4.86",
+            "p1":"Universite Oversize Cotton Logo",
+            "p2":"18 Stores",
+            
+            "img":"https://cdn.modesens.com/availability/45254795?w=400&"
+        },
+        {
+            "id":"6",
+            "name":"ALEXANDER MCQUEEN",
+            "actualPrice":"553",
+            "latestPrice":"1554",
+            "reviews":"34",
+            "rating":"4.68",
+            "p1":"Alexander Macqueen Woman's",
+            "p2":"21 Stores",
+         
+            "img":"https://cdn.modesens.com/product/40615641_2?w=400&"
+        },
+        {
+            "id":"7",
+            "name":"GANNI",
+            "actualPrice":"190",
+            "latestPrice":"471",
+            "reviews":"2",
+            "rating":"5",
+            "p1":"Women's Black Other Materials",
+            "p2":"20 Stores",
+          
+            "img":"https://cdn.modesens.com/availability/48383362?w=400&"
+        },
+        {
+            "id":"8",
+            "name":"ALEXANDER MCQUEEN",
+            "actualPrice":"528",
+            "latestPrice":"913",
+            "reviews":"7",
+            "rating":"4.86",
+            "p1":"Glossed-leather Exaggerated-",
+            "p2":"21 Stores",
+           
+            "img":"https://cdn.modesens.com/availability/37731631?w=400&"
+        } 
+    ],
+    "Community_Posts":[
+        {
+            "id":"1",
+            "name":"BURBERRY",
+            "actualPrice":"341",
+            "latestPrice":"570",
+            "reviews":"34",
+            "rating":"4.68",
+            "p1":"Bbry Carrick top Tee Cn Ss Chckd",
+            "p2":"24 Stores",
+           "img":"https://cdn.modesens.com/umedia/1587542s?w=400&"
+        },
+        {
+            "id":"2",
+            "name":"JACQUEMUS",
+            "actualPrice":"349",
+            "latestPrice":"775",
+            "reviews":"757",
+            "rating":"4.79",
+            "p1":"Women's Limao Cutout Woven",
+            "p2":"24 Stores",
+            "img":"https://cdn.modesens.com/umedia/1593167s?w=400&"
+        },
+        {
+            "id":"3",
+            "name":"GANNI",
+            "actualPrice":"70",
+            "latestPrice":"148",
+            "reviews":"34",
+            "rating":"4.68",
+            "p1":"Cotton Poplin Collared Sleeveless",
+            "p2":"20 Stores",
+          
+            "img":"https://cdn.modesens.com/umedia/1592136s?w=400&"
+        },
+        {
+            "id":"4",
+            "name":"ALEXANDER MCQUEEN",
+            "actualPrice":"892",
+            "latestPrice":"1990",
+            "reviews":"2",
+            "rating":"5",
+            "p1":"Crossover-strap Slim-fit Stretch-",
+            "p2":"21 Stores",
+           
+            "img":"https://cdn.modesens.com/umedia/1587648s?w=400&"
+        },
+        {
+            "id":"5",
+            "name":"SAINT LAURENT",
+            "actualPrice":"380",
+            "latestPrice":"890",
+            "reviews":"7",
+            "rating":"4.86",
+            "p1":"Universite Oversize Cotton Logo",
+            "p2":"18 Stores",
+            
+            "img":"https://cdn.modesens.com/umedia/14180s?w=400&"
+        },
+        {
+            "id":"6",
+            "name":"ALEXANDER MCQUEEN",
+            "actualPrice":"553",
+            "latestPrice":"1554",
+            "reviews":"34",
+            "rating":"4.68",
+            "p1":"Alexander Macqueen Woman's",
+            "p2":"21 Stores",
+         
+            "img":"https://cdn.modesens.com/umedia/1583751s?w=400&"
+        },
+        {
+            "id":"7",
+            "name":"GANNI",
+            "actualPrice":"190",
+            "latestPrice":"471",
+            "reviews":"2",
+            "rating":"5",
+            "p1":"Women's Black Other Materials",
+            "p2":"20 Stores",
+          
+            "img":"https://cdn.modesens.com/umedia/1580264s?w=400&"
+        },
+        {
+            "id":"8",
+            "name":"ALEXANDER MCQUEEN",
+            "actualPrice":"528",
+            "latestPrice":"913",
+            "reviews":"7",
+            "rating":"4.86",
+            "p1":"Glossed-leather Exaggerated-",
+            "p2":"21 Stores",
+           
+            "img":"https://cdn.modesens.com/umedia/1572505s?w=400&"
+        } 
+    ],
+    "womanProduct": [
+        {
+            "id":"1",
+            "type":"Clothing",
+            "for":"Woman",
+            "name":"BURBERRY",
+            "actualPrice":"341",
+            "latestPrice":"570",
+            "reviews":"34",
+            "rating":"4.68",
+            "p1":"Bbry Carrick top Tee Cn Ss Chckd",
+            "p2":"24 Stores",
+           "img":"https://cdn.modesens.com/umedia/1587542s?w=400&"
+        },
+        {
+            "id":"2",
+            "type":"Clothing",
+            "for":"Woman",
+            
+            "name":"JACQUEMUS",
+            "actualPrice":"349",
+            "latestPrice":"775",
+            "reviews":"757",
+            "rating":"4.79",
+            "p1":"Women's Limao Cutout Woven",
+            "p2":"24 Stores",
+            "img":"https://cdn.modesens.com/umedia/1593167s?w=400&"
+        },
+        {
+            "id":"3",
+            "type":"Clothing",
+            "for":"Woman",
+            "name":"GANNI",
+            "actualPrice":"70",
+            "latestPrice":"148",
+            "reviews":"34",
+            "rating":"4.68",
+            "p1":"Cotton Poplin Collared Sleeveless",
+            "p2":"20 Stores",
+          
+            "img":"https://cdn.modesens.com/umedia/1592136s?w=400&"
+        },
+        {
+            "id":"4",
+            "type":"Clothing",
+            "for":"Woman",
+            "name":"ALEXANDER MCQUEEN",
+            "actualPrice":"892",
+            "latestPrice":"1990",
+            "reviews":"2",
+            "rating":"5",
+            "p1":"Crossover-strap Slim-fit Stretch-",
+            "p2":"21 Stores",
+           
+            "img":"https://cdn.modesens.com/umedia/1587648s?w=400&"
+        },
+        {
+            "id":"5",
+            "type":"Clothing",
+            "for":"Woman",
+            "name":"SAINT LAURENT",
+            "actualPrice":"380",
+            "latestPrice":"890",
+            "reviews":"7",
+            "rating":"4.86",
+            "p1":"Universite Oversize Cotton Logo",
+            "p2":"18 Stores",
+            
+            "img":"https://cdn.modesens.com/umedia/14180s?w=400&"
+        },
+        {
+            "id":"6",
+            "type":"Clothing",
+            "for":"Woman",
+            "name":"ALEXANDER MCQUEEN",
+            "actualPrice":"553",
+            "latestPrice":"1554",
+            "reviews":"34",
+            "rating":"4.68",
+            "p1":"Alexander Macqueen Woman's",
+            "p2":"21 Stores",
+         
+            "img":"https://cdn.modesens.com/umedia/1583751s?w=400&"
+        },
+        {
+            "id":"7",
+            "type":"Clothing",
+            "for":"Woman",
+            "name":"GANNI",
+            "actualPrice":"190",
+            "latestPrice":"471",
+            "reviews":"2",
+            "rating":"5",
+            "p1":"Women's Black Other Materials",
+            "p2":"20 Stores",
+          
+            "img":"https://cdn.modesens.com/umedia/1580264s?w=400&"
+        },
+        {
+            "id":"8",
+            "type":"Clothing",
+            "for":"Woman",
+            
+            "name":"GANNI",
+            "actualPrice":"528",
+            "latestPrice":"913",
+            "reviews":"7",
+            "rating":"4.86",
+            "p1":"Glossed-leather Exaggerated-",
+            "p2":"21 Stores",
+           
+            "img":"https://cdn.modesens.com/umedia/1572505s?w=400&"
+        } 
+        
+         
+        
+    ]
+     
+    
+     
+}

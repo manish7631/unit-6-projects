@@ -1,0 +1,80 @@
+ 
+
+.productpage{
+    width: 100%;
+     margin: auto;
+    display: flex;
+}
+
+.btnp{
+     border: 1px solid green; 
+    width: 15%;
+    height: 200px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+#product_info{
+      /* border: 1px solid blue;  */
+   width: 85%;
+   display: grid;
+   grid-template-rows: 550px;
+   grid-template-columns: 24% 24% 24% 24%;
+   grid-gap: 10px;
+   /* padding-top: 10px; */
+   /* padding-left: 80px; */
+}
+
+.div1{
+   width: 100%;
+   height: 550px;
+    border: 1px solid teal;    
+}
+.imagetag{
+   width: 100%;
+   height: 300px;
+}
+ 
+ 
+
+
+
+.Home_watch_text{
+    width: 300px;
+    height: 205px;
+    /* border: 1px solid green;  */
+    text-align: center;
+    align-items: center;
+   
+  border-radius: 10px;
+   
+    
+} 
+.Home_main_name{
+    width: 99%;
+    height: 80px;
+    /* border: 1px solid greenyellow; */
+    color: rgb(0, 0, 0);
+   
+    padding-left: 2px;
+    font-size: 12px;
+    font-weight: 600;
+}
+.Home_main_price{
+    width: 99%;
+    height: 100px;
+    /* border: 1px solid red; */
+    color: #000;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+}
+
+.HoverButton{
+    width: 150px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 18px;
+}

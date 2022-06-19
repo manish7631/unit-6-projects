@@ -1,0 +1,30 @@
+.secondLast{
+    width: 100%;
+    height: 530px;
+    /* border: 1px solid green; */
+    display: flex;
+     justify-content: space-around; 
+}
+.secondLast_Div{
+    width: 50%;
+    height: 530px;
+     /* border: 1px solid red;  */
+}
+
+#fotter{
+    width: 100%;
+    height: 530px;
+    border: 1px solid green;
+}
+.fotterDiv{
+    text-align: left;
+    padding-left: 10px;
+}
+.button{
+    border: none;
+}
+
+.buttonimage{
+    width: 200px;
+    height: 60px;
+}
